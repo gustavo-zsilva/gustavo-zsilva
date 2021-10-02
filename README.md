@@ -1,5 +1,8 @@
 ### Hi there 👋
+### My name is Gustavo and I'm a web developer.
+> I'm always working on new projects, and if you like it feel free to contribute by making pull requests 🎉
 
+![Welcome Gif](https://c.tenor.com/zxqWWZc-VsMAAAAC/cheshire-cat-salve.gif)
 <!--
 **gustavo-zsilva/gustavo-zsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

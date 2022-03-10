@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">My name's Gustavo and I'm a web dev ⭐</h3>
+Hi there 👋
+My name's Gustavo and I'm a web dev ⭐
 
 > I'm always working on new projects, and if you like it feel free to contribute by making pull requests 🎉
 

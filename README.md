@@ -3,9 +3,8 @@ My name's Gustavo and I'm a web dev ⭐
 
 > I'm always working on new projects, and if you like it feel free to contribute by making pull requests 🎉
 
-<p align="center">
-  <img src="https://c.tenor.com/zxqWWZc-VsMAAAAC/cheshire-cat-salve.gif" alt="Salve!" />
-</p>
+<img src="https://c.tenor.com/zxqWWZc-VsMAAAAC/cheshire-cat-salve.gif" alt="Salve!" />
+
 
 <!--
 **gustavo-zsilva/gustavo-zsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

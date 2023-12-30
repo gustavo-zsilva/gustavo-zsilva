@@ -1,5 +1,5 @@
 <img align="right" src="https://raw.githubusercontent.com/gist/gustavo-zsilva/95daf536737307ea4adb0306d045f51d/raw/f0fb7c0e5e9967ae6bf25d8c7014fd99a7f2e433/githubcard.svg" height="590em" alt="Profile Banner" />
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo </h1>
 <p><img src="https://komarev.com/ghpvc/?username=gustavo-zsilva&color=yellow" alt="Profile views" /></p>
 
 ## Tech Stack

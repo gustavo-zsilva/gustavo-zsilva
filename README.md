@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently not working at any companies
 
-- 💬 My favorite technologies right now are **NextJS, ReactJS and GraphQL**
+- 💬 My favorite technologies right now are **NextJS, ReactJS and Typescript**
 
 - 🌱 I’m currently re-discovering my skills after a long time inactive
   
